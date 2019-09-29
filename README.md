@@ -11,7 +11,7 @@ https://youtu.be/Z4PMT5wUhMw
 
 Features:
 - most typical ANSI color and style codes supported
-- works perfect in 9600 and 19200 bps modes
+- works perfectly in 9600 and 19200 bps modes
 - in 28800 Arduino seems to be sometimes little too slow but still usable
 - used fast ST7789 and RRE fonts libraries
 - ST7789 hardware scrolling
