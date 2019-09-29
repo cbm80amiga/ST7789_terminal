@@ -9,6 +9,9 @@ Requires:
 YouTube video:
 https://youtu.be/Z4PMT5wUhMw
 
+Practical use case:
+https://youtu.be/a1vxOkcO5Fw
+
 Features:
 - most typical ANSI color and style codes supported
 - works perfectly in 9600 and 19200 bps modes
