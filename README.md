@@ -19,3 +19,7 @@ Features:
 - used fast ST7789 and RRE fonts libraries
 - ST7789 hardware scrolling
 - 30x15 character display with 8x16 pixel font
+
+If you find it useful and want to buy me a coffee or a beer:
+
+https://www.paypal.me/cbm80amiga
